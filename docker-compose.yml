@@ -1,0 +1,8 @@
+version: '3'
+services:
+  node:
+    build:
+      context: .
+      args:
+        VERSION_NODEJS: 8.9.3-r0
+    image: node-alpine:8.9.3-r0
