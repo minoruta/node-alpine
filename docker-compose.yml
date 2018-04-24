@@ -4,5 +4,5 @@ services:
     build:
       context: .
       args:
-        VERSION_NODEJS: 8.9.3-r0
-    image: node-alpine:8.9.3-r0
+        VERSION_NODEJS: 8.9.3-r1
+    image: node-alpine:8.9.3-r1

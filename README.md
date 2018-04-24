@@ -18,6 +18,7 @@ $ docker container run -it node-alpine /bin/ash
 
 | Tag      | [nodejs](http://www.node.org) | [alpine linux](https://alpinelinux.org)
 |----------|-----------------------------|---------
+| 8.9.3-r1 | [8.9.3-r1](https://pkgs.alpinelinux.org/packages?name=nodejs&arch=x86_64)| [3.7](https://pkgs.alpinelinux.org/packages?name=alpine&arch=x86_64)
 | 8.9.3-r0 | [8.9.3-r0](https://pkgs.alpinelinux.org/packages?name=nodejs&arch=x86_64)| [3.7](https://pkgs.alpinelinux.org/packages?name=alpine&arch=x86_64)
 
 ## [License & Copyright](./LICENSE)
