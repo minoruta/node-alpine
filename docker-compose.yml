@@ -5,4 +5,4 @@ services:
       context: .
       args:
         VERSION_NODEJS: 8.9.3-r1
-    image: node-alpine:8.9.3-r1
+    image: minoruta/node-alpine:8.9.3-r1
